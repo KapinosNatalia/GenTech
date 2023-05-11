@@ -12,6 +12,5 @@ select * from employees where last_name like 'L%';
 -- Из таблицы departments найти все департаменты, у которых location_id 1700.
 select * from departments where location_id = 1700;
 
-
 -- Из таблицы locations найти все города с country_id US.
 select * from locations where country_id = 'US';
