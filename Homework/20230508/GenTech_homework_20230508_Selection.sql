@@ -14,3 +14,5 @@ select * from departments where location_id = 1700;
 
 -- Из таблицы locations найти все города с country_id US.
 select * from locations where country_id = 'US';
+
+
